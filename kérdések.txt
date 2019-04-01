@@ -4,4 +4,4 @@
 	új commit lesz revert-ként, és a módosítások visszavonásra kerülnek txt állományból.
 	De xls, docx esetén mi van?	Szépen visszaáll!!!
 3.	Reset próba
-4.	git cmd ??
+4.	git difftool
