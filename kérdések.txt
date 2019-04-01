@@ -1,5 +1,6 @@
 1.	remote repo szerveren.
 2.	git revert & git status cl-ből nem látható a visszavonás nyoma.
 	a revert csak commit üzenetet von vissza.
-	
+	új commit lesz revert-ként, és a módosítások visszavonásra kerülnek txt állományból.
+	De xls, docx esetén mi van?	
 3.
