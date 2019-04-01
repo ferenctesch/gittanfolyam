@@ -3,5 +3,4 @@
 	a revert csak commit üzenetet von vissza.
 	új commit lesz revert-ként, és a módosítások visszavonásra kerülnek txt állományból.
 	De xls, docx esetén mi van?	Szépen visszaáll!!!
-3.	Reset próba
 4.	git difftool
