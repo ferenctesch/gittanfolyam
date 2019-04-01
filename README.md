@@ -5,4 +5,3 @@ A revert parancs segítségével egy commit-tált snapshot összes módosítása
 A parancs esetében a Git nem törli a korábbi commit-ot, hanem az aktuális branch-ben létrehoz egy újat, amely visszavonja a megadott commit változtatásait.
 Erre az integritás megőrzése miatt van szükség.
 visual studio 
-rontas 
