@@ -6,4 +6,4 @@ A parancs esetében a Git nem törli a korábbi commit-ot, hanem az aktuális br
 Erre az integritás megőrzése miatt van szükség.
 visual studio 
 
-git log
+git log --porcelain
