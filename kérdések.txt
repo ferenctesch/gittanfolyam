@@ -1,0 +1,3 @@
+1.	remote repo szerveren.
+2.	git revert & git status cl-bõl nem látható a visszavonás nyoma.
+	a revert csak commit üzenetet von vissza.
