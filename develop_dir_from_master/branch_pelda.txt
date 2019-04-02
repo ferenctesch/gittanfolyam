@@ -8,7 +8,7 @@ develop ()
   valami
   meg valami
   ismet
-  megint
+  megint (egy konflikt developben)
 }
 
 develop2 ()
