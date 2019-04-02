@@ -5,14 +5,10 @@
 
 develop ()
 {
-<<<<<<< HEAD
   valami !!!!
   meg valami
   ismet
   megint (egy konflikt developben)
-=======
-  develop2 conflict 
->>>>>>> develop2
 }
 
 develop2 ()
