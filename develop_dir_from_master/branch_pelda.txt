@@ -2,6 +2,10 @@
 
 2.	A masodik bekezdes a master agban tortenik branch letrehozasa elott.
 
+<<<<<<< HEAD
 4. 	Ez a bekezdes a master-ban keszult branch letrehozasa utan.!!!!!
 
+=======
+3.	Ez a bekezdes a develop branch-ban keszult!!!
+>>>>>>> develop
 
