@@ -8,9 +8,3 @@ visual studio
 
 git log --porcelain
 
-git conflict
-<<<<<<< HEAD
-git conflict2
-=======
-git conflict3
->>>>>>> e5bdde454671e0f85055726cbb9a6f0e0c87198f
