@@ -1,0 +1,445 @@
+* commit 7a8da49ee8d1818ed4c04f2b71b5704be7c01d75
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 15:09:18 2019 +0200
+| 
+|     -
+|   
+*   commit 7c02f3f63aa8d806bcb7cd4d123631d869a7a208
+|\  Merge: e525013 bff882f
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 14:43:00 2019 +0200
+| | 
+| |     master elfogadasa
+| | 
+| * commit bff882f1d06415cb019692e67ee9ff2d4945bf57
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 14:36:22 2019 +0200
+| | 
+| |     develop confl
+| | 
+* | commit e5250138f7c42ccc41e6f52227cf82953cdeaec5
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 14:34:02 2019 +0200
+| | 
+| |     pelda conflict
+| | 
+* | commit 6b5174403c735bc7d4868a2d2a10456258ca0e2d
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 14:28:19 2019 +0200
+| | 
+| |      -
+| | 
+* | commit df88d6be268eca02d3281d62377a381145917c73
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 14:27:10 2019 +0200
+| | 
+| |      -
+| |   
+* |   commit a1f487ca4b80d98ee3bc4f133230ea38ddb775a8
+|\ \  Merge: 74f0ad2 e5bdde4
+| | | Author: TFP <tesch.ferenc68@gmail.com>
+| | | Date:   Tue Apr 2 14:24:34 2019 +0200
+| | | 
+| | |     conflict feloldas
+| | | 
+| * | commit e5bdde454671e0f85055726cbb9a6f0e0c87198f
+| | | Author: ferenctesch <42577144+ferenctesch@users.noreply.github.com>
+| | | Date:   Tue Apr 2 14:14:14 2019 +0200
+| | | 
+| | |     Update README.md
+| | | 
+* | | commit 74f0ad26b8f05b262e43be5998956a6e7cf9bbc4
+|/ /  Author: TFP <tesch.ferenc68@gmail.com>
+| |   Date:   Tue Apr 2 14:14:45 2019 +0200
+| |   
+| |       confict 1
+| | 
+* | commit 9dc1991c381b639727f18916e252daf65a9c3f87
+| | Author: ferenctesch <42577144+ferenctesch@users.noreply.github.com>
+| | Date:   Tue Apr 2 14:09:12 2019 +0200
+| | 
+| |     Update README.md
+| | 
+* | commit 27166d9d334f05a503f7d8c6fd281d70ac77f1c9
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 14:07:09 2019 +0200
+| | 
+| |     Conflict.docx added
+| | 
+* | commit b60831fe6dfbe2cc71ef8faf7bc6855a6a8b5193
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 14:03:14 2019 +0200
+| | 
+| |     docx links updated
+| |   
+* |   commit e1424d817bdfc97093c1865232c491b41c45f055
+|\ \  Merge: 0a7843b b44e1a3
+| | | Author: TFP <tesch.ferenc68@gmail.com>
+| | | Date:   Tue Apr 2 13:51:53 2019 +0200
+| | | 
+| | |     Merge branch 'develop2'
+| | | 
+| * | commit b44e1a32fa1e9033e4554dc222d146feedd3f264
+| | | Author: TFP <tesch.ferenc68@gmail.com>
+| | | Date:   Tue Apr 2 13:49:50 2019 +0200
+| | | 
+| | |     baromi
+| | |   
+* | |   commit 0a7843be5d60750afaef6e303da17763a8e97330
+|\ \ \  Merge: 30a8c25 b8c7d2f
+| | |/  Author: TFP <tesch.ferenc68@gmail.com>
+| |/|   Date:   Tue Apr 2 13:50:44 2019 +0200
+| | |   
+| | |       Merge branch 'develop'
+| | | 
+| * | commit b8c7d2f755aea6f5da9b77273673ff30cfa46343
+| | | Author: TFP <tesch.ferenc68@gmail.com>
+| | | Date:   Tue Apr 2 13:45:35 2019 +0200
+| | | 
+| | |     megint
+| | |   
+* | |   commit 30a8c25fec0a4afb5d76b503105bc1c7ead44b76
+|\ \ \  Merge: ad8e257 5fbfb2c
+| |/ /  Author: TFP <tesch.ferenc68@gmail.com>
+|/| /   Date:   Tue Apr 2 13:28:40 2019 +0200
+| |/    
+| |         Merge branches 'develop' and 'develop2'
+| | 
+| * commit 5fbfb2c4fafd2bdebaa9e807558e0841f55a57e4
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 13:26:55 2019 +0200
+| | 
+| |     develop2 updated
+| | 
+* | commit ad8e257fc48b25082b9cc542b472a31ae666ad07
+|/  Author: TFP <tesch.ferenc68@gmail.com>
+|   Date:   Tue Apr 2 13:20:40 2019 +0200
+|   
+|       pelda updated
+| 
+* commit 3dfd26545e718418007ae4654186e56bedeeedcc
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 13:12:02 2019 +0200
+| 
+|     develop develop2 created
+|   
+*   commit 61eb7148ac3707b70c34d095e28edfa91cef2be1
+|\  Merge: 6c40427 910098e
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 13:07:00 2019 +0200
+| | 
+| |     delete develop
+| | 
+| * commit 910098e75d523e46ac4e147eff9932ac08284d77
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 11:48:36 2019 +0200
+| | 
+| |     branch pelda updated
+| | 
+| * commit 535d3aed7620e764422b30ae345f57dce5362139
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 11:47:43 2019 +0200
+| | 
+| |     branch pelda develop updated
+| | 
+| * commit cfd123807c26ebb6f3b6e7e22d43e5e9b5fc9fcc
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 11:44:18 2019 +0200
+| | 
+| |     develop created
+| | 
+* | commit 6c4042799759c616ff84f374d6209fd07ab9ee7d
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 11:59:36 2019 +0200
+| | 
+| |     merge.docx created
+| | 
+* | commit 068b8b7d31d59eb6724a17524a3eec01adbf0e05
+| | Author: TFP <tesch.ferenc68@gmail.com>
+| | Date:   Tue Apr 2 11:53:01 2019 +0200
+| | 
+| |     branch.docx updated
+| | 
+* | commit 1df07870da78b2bf540c591d50ac3372c3472cb0
+|/  Author: TFP <tesch.ferenc68@gmail.com>
+|   Date:   Tue Apr 2 11:46:00 2019 +0200
+|   
+|       branch pelda updated
+| 
+* commit 435bded863b8ccd601ec6cb6047e77916cdbd4ca
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 11:41:00 2019 +0200
+| 
+|     branch pelda updated
+| 
+* commit 4a27c161d7722d9d3f80825731711aee78604573
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 11:27:19 2019 +0200
+| 
+|     branch develop created
+| 
+* commit 3ba61e274158dce47145b0388e474b61d46812fb
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 11:25:53 2019 +0200
+| 
+|     branch develop created
+| 
+* commit fb789962603b268fc3487cf3e80cb612cc00d7e5
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 11:23:18 2019 +0200
+| 
+|     branch.docx modified
+| 
+* commit 47587cbf2b29c93b72f09856f1df6e02bb0ab5eb
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 11:17:34 2019 +0200
+| 
+|     branch pelda added
+| 
+* commit 62a5a8be8df32ba3a29013cc0ec838bf80f7b4bb
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 11:09:15 2019 +0200
+| 
+|     branch.docx modified
+| 
+* commit afa8540d6ebd892b5797695bec5cc1494ca99931
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 11:03:03 2019 +0200
+| 
+|     develop_dir renamed
+| 
+* commit f4799535fce747b1f8e828b184a5c6397f523e4a
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 10:45:52 2019 +0200
+| 
+|     branch develop created
+| 
+* commit 4ae66f90d121c66291fc30c6e8abbbdebc8c580e
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 10:42:17 2019 +0200
+| 
+|     branch.docx modified
+| 
+* commit ce2b929ac6755566462dc7e084f9b5f09026f844
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Tue Apr 2 10:24:36 2019 +0200
+| 
+|     grep branch docx added
+| 
+* commit 20b2dc3c7212ef7ca239450b4b91cad1510470fc
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 16:22:11 2019 +0200
+| 
+|     README.md modified
+| 
+* commit eebc8e585d25a1d6312a26787be5c4e66fbb0636
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 16:17:24 2019 +0200
+| 
+|     git status.docx added
+| 
+* commit bb8792d6c9fb8f0ca2316e0c8668a7821179ef42
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 15:55:25 2019 +0200
+| 
+|     kérdések.txt modified
+| 
+* commit 9d14e20fe01d816edb2e838316582e5532faccb0
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 15:49:26 2019 +0200
+| 
+|     git diff.docx modified
+| 
+* commit 77d6686e8ef752c09eb08a1e65b431649dc290af
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 15:42:42 2019 +0200
+| 
+|     git diff.docx added
+| 
+* commit 1fff1f82d1c4b9c11c1e342c316002e9062bd381
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 15:03:25 2019 +0200
+| 
+|     git log.docx added
+| 
+* commit e7d8983117198973df7f7eed4f68ab7d0611c27e
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:57:44 2019 +0200
+| 
+|     reset.docx modified
+| 
+* commit 11e52ba44f4295719e14b8091030796728fb0559
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:47:06 2019 +0200
+| 
+|     Revert "kerdesek rontas"
+|     
+|     This reverts commit cf8dc12b041f5233278137f0c6ca71f43a43f854.
+| 
+* commit cf8dc12b041f5233278137f0c6ca71f43a43f854
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:46:13 2019 +0200
+| 
+|     kerdesek rontas
+| 
+* commit 6dfd9f7b329feaf1d3ec60d1736173c98c455ef2
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:44:44 2019 +0200
+| 
+|      revert reset modified
+| 
+* commit c348847062a4d15698dbfd348b639b7ba1a1cf0e
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:35:47 2019 +0200
+| 
+|     reset.docx modified
+| 
+* commit 476cd916ebcc0fa46320c5942b69509bdcf010b8
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:32:53 2019 +0200
+| 
+|     Revert.docx modified
+| 
+* commit fbb2ebfe5a74110951bce3ac959f8c26b52e6146
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:26:01 2019 +0200
+| 
+|     Revert "rontas revert.docx 2"
+|     
+|     This reverts commit b172e3a284ca87a14c11570eee156c20993a8b99.
+| 
+* commit b172e3a284ca87a14c11570eee156c20993a8b99
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:24:25 2019 +0200
+| 
+|     rontas revert.docx 2
+| 
+* commit deb4f7eb09f1291a26e075cad35f94a2bc22d8f6
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:20:44 2019 +0200
+| 
+|     Revert "rontas revert.docx"
+|     
+|     This reverts commit 1cd7ed34f8027aba588c57fb3e2b6bed4d2cc82d.
+| 
+* commit 1cd7ed34f8027aba588c57fb3e2b6bed4d2cc82d
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:19:45 2019 +0200
+| 
+|     rontas revert.docx
+| 
+* commit 0bd7a1a2e5f179e63a187dd7b4735fc2127f525e
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 14:15:55 2019 +0200
+| 
+|     Revert "rontas docx-ban"
+|     
+|     This reverts commit f973e542f353460db1c75a23167c62576f304386.
+| 
+* commit f973e542f353460db1c75a23167c62576f304386
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:59:28 2019 +0200
+| 
+|     rontas docx-ban
+| 
+* commit e6b94d9bab9032dce394671888d2a429758d20cb
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:54:42 2019 +0200
+| 
+|     add reset.docx
+| 
+* commit f72716fd90888a58b6dbf1d689453a2541680e46
+| Author: ferenctesch <42577144+ferenctesch@users.noreply.github.com>
+| Date:   Mon Apr 1 13:44:55 2019 +0200
+| 
+|     revert txt igazolas
+| 
+* commit 908669e487acf9d78d663c937997314a0992b6a9
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:42:58 2019 +0200
+| 
+|     Revert "rontas"
+|     
+|     This reverts commit 552a032aad8c7800b02af78a05cb1da586a5206c.
+| 
+* commit 552a032aad8c7800b02af78a05cb1da586a5206c
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:41:35 2019 +0200
+| 
+|     rontas
+| 
+* commit 07fd5632facf0dc6e210dd5f9333e3aba81eb8cf
+| Author: ferenctesch <42577144+ferenctesch@users.noreply.github.com>
+| Date:   Mon Apr 1 13:38:56 2019 +0200
+| 
+|     3. pont elokeszitese
+| 
+* commit 17fbe5bd900f5f73f0cddd2364971fc531d7210b
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:37:46 2019 +0200
+| 
+|     kerdesek file hozzaadasa
+| 
+* commit 3528a82732f20c69590c7bfc96dea161c6df5fe2
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:30:46 2019 +0200
+| 
+|     Revert "Revert "modified README.md""
+|     
+|     This reverts commit 8e1aeac301cc0566a7e03ee938d6e26c15df18df.
+| 
+* commit 8e1aeac301cc0566a7e03ee938d6e26c15df18df
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:29:50 2019 +0200
+| 
+|     Revert "modified README.md"
+|     
+|     This reverts commit 1d5de42af07d39b9755c431b646815f472e4dbf4.
+| 
+* commit 1d5de42af07d39b9755c431b646815f472e4dbf4
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:25:21 2019 +0200
+| 
+|     modified README.md
+| 
+* commit b89cf964ab0a89079e7b6fe9444cbf0e5cc483fd
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:19:39 2019 +0200
+| 
+|     modofied README.md
+| 
+* commit 356574d99938ce97f1763f2941d3bdcb717b51eb
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:11:23 2019 +0200
+| 
+|     modified revert.docx
+| 
+* commit 83fb4a1d8186e2f1293be887e9044a5b73fc5ced
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 13:09:10 2019 +0200
+| 
+|     add revert.docx
+| 
+* commit a70e8e08bd36711552d1fb9ec4e197cb6719422d
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 12:58:35 2019 +0200
+| 
+|     osszes file megadasa
+| 
+* commit 60a61119b714e2f14ebf68b241078a33b4aca90d
+| Author: ferenctesch <42577144+ferenctesch@users.noreply.github.com>
+| Date:   Mon Apr 1 11:56:07 2019 +0200
+| 
+|     Create READ.ME
+| 
+* commit bb19fdf949842dc002dab9392ba36d2d045cdc66
+| Author: TFP <tesch.ferenc68@gmail.com>
+| Date:   Mon Apr 1 11:51:31 2019 +0200
+| 
+|     github added
+| 
+* commit 783b1b46fbcd8e7d92c12b15749c6d16f0790a61
+  Author: TFP <tesch.ferenc68@gmail.com>
+  Date:   Mon Apr 1 11:48:29 2019 +0200
+  
+      ket file hozzáadva

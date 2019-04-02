@@ -8,6 +8,11 @@ develop ()
   valami
   meg valami
   ismet
+<<<<<<< HEAD
+  megint  (egy konflikt master-ben)
+=======
+  megint (egy konflikt developben)
+>>>>>>> develop
 }
 
 develop2 ()
