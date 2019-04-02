@@ -2,5 +2,5 @@
 
 2.	A masodik bekezdes a master agban tortenik branch letrehozasa elott.
 
-3.	Ez a bekezdes a develop branch-ban keszult!!! !!
+3.	Ez a bekezdes a develop branch-ban keszult!!!
 
