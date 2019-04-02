@@ -5,7 +5,7 @@
 
 develop ()
 {
-  valami
+  valami !!!!
   meg valami
   ismet
   megint (egy konflikt developben)
