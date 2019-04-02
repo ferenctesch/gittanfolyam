@@ -1,4 +1,5 @@
 1.	Ez a file arra valo, hogy bemutassam a branch fejlesztes parhuzamossagait.
 
-2.	A masodik bekezdes a master agban tortenik
+2.	A masodik bekezdes a master agban tortenik branch letrehozasa elott.
+
 
