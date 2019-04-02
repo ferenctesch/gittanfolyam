@@ -4,6 +4,7 @@
 
 develop ()
 {
+  develop2 conflict
 }
 
 develop2 ()
