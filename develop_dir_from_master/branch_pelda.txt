@@ -2,4 +2,6 @@
 
 2.	A masodik bekezdes a master agban tortenik branch letrehozasa elott.
 
+4. 	Ez a bekezdes a master-ban keszult branch letrehozasa utan.!!!!!
+
 
