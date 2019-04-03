@@ -7,4 +7,4 @@ Erre az integritás megőrzése miatt van szükség.
 visual studio 
 
 git log --porcelain
-egy sor beszurva
+
